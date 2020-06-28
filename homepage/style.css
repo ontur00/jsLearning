@@ -1,0 +1,43 @@
+
+.about{
+    width: 100%;
+    max-width: 700px;
+    margin: 32px auto;
+}
+
+body {
+    -webkit-text-size-adjust: none; }
+
+h2 {
+    color: #1460aa; }
+
+.mainHeader{
+    color:red;
+    font-size: 64px;
+}
+
+.sectionHeader{
+    color:green;     
+}
+
+.pn{
+    color:yellow;     
+}
+.wt{
+    color:silver;     
+}
+.sr{
+    color:slateblue;     
+}
+.cz{
+    color:tomato;     
+}
+.pt{
+    color:yellowgreen;     
+}
+.sob{
+    color:teal;     
+}
+.ndz{
+    color:violet;     
+}
